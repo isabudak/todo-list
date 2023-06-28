@@ -1,0 +1,21 @@
+@media(max-width:768px){
+    .container #header{
+        font-size: 30px;
+    }
+    .container form #inputt{
+        width: 50%;
+        height: 3rem;
+    }
+    .container form #ekle{
+        width: 50%;
+        height: 2rem;
+        margin-top:10px ;
+        margin-bottom:10px ;
+    }
+
+    .container #sil{
+        width: 50%;
+        height: 2rem;
+    }
+
+}
